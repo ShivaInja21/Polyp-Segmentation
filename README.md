@@ -199,7 +199,7 @@ This project implements a modified version of the DUCK-Net architecture, origina
 
 - **Shreyas Prabhakar**  
 - **Suman Majjari**  
-- **Siva Pavan Inja**  
+- **Shiva Sai Pavan Inja**  
 - **Talha Jabbar**  
 - **Aditya Madalla**
 
